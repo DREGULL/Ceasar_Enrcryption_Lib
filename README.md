@@ -5,12 +5,12 @@ Download
 Version x64
 
 Folder
-CEx64/Caesar_Encryption.dll || CEx64/Ceasar_Encryption.lib
+CEx64/Caesar_Encryption.dll || CEx64/lib/Ceasar_Encryption.lib
 
 Version x86
 
 Folder
-CEx86/Caesar_Encryption.dll || CEx86/Ceasar_Encryption.lib
+CEx86/Caesar_Encryption.dll || CEx86/lib/Ceasar_Encryption.lib
 
 
 -Shift value must be positive
